@@ -8,13 +8,6 @@ body {
 * {
     margin: 0;
     padding: 0;
-    /* border: 1px solid red; */
-    /* background-color: black; */
-}
-
-body {
-    /* margin: 0 150px; */
-    /* border: 2px dashed green; */
 }
 
 /* Header Design */
@@ -305,7 +298,7 @@ main {
     border-radius: 18px;
 }
 
-/* bmi calcuration design */
+/* bmi calcurator design */
 .margin {
     background-color: #2c2c2c;
     padding: 0 150px;
